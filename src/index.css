@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root{
+    background-color: black;
+    box-sizing: border-box;
+}
+/* Tailwind plugin or global styles */
+.scrollbar-hide {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none; /* WebKit browsers */
+  }

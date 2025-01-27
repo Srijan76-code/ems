@@ -15,8 +15,8 @@ const Prioritycard = () => {
                             <div className="bg-[#2A1919] px-3 text-sm text-center flex items-center rounded-sm text-red-400 ">High</div>
                         </div>
                         <div className="flex gap-4 items-center    ">
-                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="../../admin-images/edit.png" alt="" />
-                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="../../admin-images/recycle-bin.png" alt="" />
+                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/edit.png" alt="" />
+                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/recycle-bin.png" alt="" />
                         </div>
                     </div>
 
@@ -25,9 +25,9 @@ const Prioritycard = () => {
 
 
                     <div className="flex gap-10 items-center mt-6 justify-center mr-16   ">
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer  ' src="../../admin-images/call.png" alt="" />
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="../../admin-images/video.png" alt="" />
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="../../admin-images/comments.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer  ' src="/../../admin-images/call.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/video.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/comments.png" alt="" />
                     </div>
 
                 </div>
@@ -40,8 +40,8 @@ const Prioritycard = () => {
                             <div className="bg-[#4d4120] px-3 text-sm text-center flex items-center rounded-sm text-yellow-400 ">Medium</div>
                         </div>
                         <div className="flex gap-4 items-center    ">
-                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="../../admin-images/edit.png" alt="" />
-                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="../../admin-images/recycle-bin.png" alt="" />
+                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/edit.png" alt="" />
+                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/recycle-bin.png" alt="" />
                         </div>
                     </div>
 
@@ -50,9 +50,9 @@ const Prioritycard = () => {
 
 
                     <div className="flex gap-10 items-center mt-6 justify-center mr-16   ">
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer  ' src="../../admin-images/call.png" alt="" />
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="../../admin-images/video.png" alt="" />
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="../../admin-images/comments.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer  ' src="/../../admin-images/call.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/video.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/comments.png" alt="" />
                     </div>
 
                 </div>
@@ -66,8 +66,8 @@ const Prioritycard = () => {
                             <div className="bg-[#336047] px-3 text-sm text-center flex items-center rounded-sm text-teal-400 ">Low</div>
                         </div>
                         <div className="flex gap-4 items-center    ">
-                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="../../admin-images/edit.png" alt="" />
-                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="../../admin-images/recycle-bin.png" alt="" />
+                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/edit.png" alt="" />
+                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/recycle-bin.png" alt="" />
                         </div>
                     </div>
 
@@ -76,9 +76,9 @@ const Prioritycard = () => {
 
 
                     <div className="flex gap-10 items-center mt-6 justify-center mr-16   ">
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer  ' src="../../admin-images/call.png" alt="" />
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="../../admin-images/video.png" alt="" />
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="../../admin-images/comments.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer  ' src="/../../admin-images/call.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/video.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/comments.png" alt="" />
                     </div>
 
                 </div>
@@ -94,8 +94,8 @@ const Prioritycard = () => {
                             <div className="bg-[#336047] px-3 text-sm text-center flex items-center rounded-sm text-teal-400 ">Low</div>
                         </div>
                         <div className="flex gap-4 items-center    ">
-                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="../../admin-images/edit.png" alt="" />
-                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="../../admin-images/recycle-bin.png" alt="" />
+                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/edit.png" alt="" />
+                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/recycle-bin.png" alt="" />
                         </div>
                     </div>
 
@@ -104,9 +104,9 @@ const Prioritycard = () => {
 
 
                     <div className="flex gap-10 items-center mt-6 justify-center mr-16   ">
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer  ' src="../../admin-images/call.png" alt="" />
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="../../admin-images/video.png" alt="" />
-                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="../../admin-images/comments.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer  ' src="/../../admin-images/call.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/video.png" alt="" />
+                        <img className='h-8 w-8 text-[#00D6A2] cursor-pointer ' src="/../../admin-images/comments.png" alt="" />
                     </div>
 
                 </div>

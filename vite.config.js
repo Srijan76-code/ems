@@ -1,16 +1,16 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+import tailwindcss from '@tailwindcss/vite';
 
-// https://vite.dev/config/
+// Export configuration
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/ems",  // Make sure the base is correctly set for GitHub Pages or deployment
+  base: process.env.NODE_ENV === 'production' ? '/ems/' : '/',  // Dynamic base path
   build: {
     rollupOptions: {
       output: {
-        manualChunks: undefined,  // Modify chunking behavior if needed
+        manualChunks: undefined, // Optional: modify chunking behavior if necessary
       },
     },
   },
-})
+});

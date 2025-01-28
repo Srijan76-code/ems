@@ -21,11 +21,11 @@ const OngoingTask = () => {
 
                         <div className="flex gap-5 ml-4 ">
                             <div className="rounded-full bg-black w-14 h-14 flex justify-center items-center">
-                                <img className='w-10 h-10 p-2  ' src="./../../admin-images/startup.PNG" alt="" /></div>
+                                <img className='w-10 h-10 p-2  ' src="./admin-images/startup.PNG" alt="" /></div>
                             <div className="flex-col ">
                                 <div className="mb-1">Startup Web with Responsive</div>
                                 <div className="flex items-center ">
-                                    <img className='w-5 h-5 mr-2  ' src="./../../admin-images/clock.PNG" alt="" />
+                                    <img className='w-5 h-5 mr-2  ' src="./admin-images/clock.PNG" alt="" />
                                     <div className="text-neutral-400 text-sm">12:00 pm - 8:30 pm</div>
                                 </div>
                             </div>
@@ -50,11 +50,11 @@ const OngoingTask = () => {
 
                         <div className="flex gap-5 ml-4 ">
                             <div className="rounded-full bg-black w-14 h-14 flex justify-center items-center">
-                                <img className='w-10 h-10 p-2  ' src="./../../admin-images/startup.PNG" alt="" /></div>
+                                <img className='w-10 h-10 p-2  ' src="./admin-images/startup.PNG" alt="" /></div>
                             <div className="flex-col ">
                                 <div className="mb-1">Startup Web with Responsive</div>
                                 <div className="flex items-center ">
-                                    <img className='w-5 h-5 mr-2  ' src="./../../admin-images/clock.PNG" alt="" />
+                                    <img className='w-5 h-5 mr-2  ' src="./admin-images/clock.PNG" alt="" />
                                     <div className="text-neutral-400 text-sm">12:00 pm - 8:30 pm</div>
                                 </div>
                             </div>

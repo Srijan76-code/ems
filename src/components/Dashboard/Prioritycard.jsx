@@ -16,7 +16,7 @@ const Prioritycard = () => {
                         </div>
                         <div className="flex gap-4 items-center    ">
                             <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="/admin-images/edit.png" alt="" />
-                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="./ems/admin-images/recycle-bin.png" alt="" />
+                            <img className='h-7 w-7 text-[#00D6A2] cursor-pointer ' src="/admin-images/recycle-bin.png" alt="" />
                         </div>
                     </div>
 
